@@ -1,6 +1,6 @@
 # MEDICAL-INSURANCE-COST-PREDICTION
 
-#MEDICAL INSURANCE PRICE PREDICTION
+
 
 This project involves predicting the cost of medical insurance using a linear regression model. The main goal is to predict charges based on various attributes such as age, sex, BMI, number of children, smoking status, and region. The dataset consists of the following attributes:
 
